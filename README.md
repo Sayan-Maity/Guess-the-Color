@@ -1,4 +1,4 @@
-## RGB Color Guessing Game
+## Guess the Color
 
 This color guessing game is based on the RGB color model written in vanilla JavaScript.
 
