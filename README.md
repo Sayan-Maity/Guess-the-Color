@@ -15,3 +15,15 @@ The rules are simple,
 - **Frontend**: HTML, CSS, Javascript
 - **Version Control**: Git
 - **Hosting**: Netlify, Github Pages
+
+## Setup and Installation
+Fork and Clone this project. Make sure you have git installed. On the terminal, navigate to your workspace directory and run it
+​
+## Contributing
+Pull requests are encouraged
+​
+## Future Scope
+- UI part can be improved by adding some animations
+​
+## License
+This project is licensed under the MIT license.
